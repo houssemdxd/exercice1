@@ -17,4 +17,5 @@ function countSurveysPerDay(dataArray) {
 }
 
 const surveyCountsPerDay = countSurveysPerDay(dataArray);
+
 console.log(surveyCountsPerDay);
